@@ -1,3 +1,3 @@
 # Verticillium dahliae resistance in cultivated sunflowers
- Code of all analyses on this project
+For manuscript: Genomic Insights into Disease Resistance in Sunflowers: Identifying Key Regions and Candidate Genes for Verticillium dahliae Resistance
 
