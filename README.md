@@ -2,6 +2,7 @@
 For manuscript: Genomic Insights into Disease Resistance in Sunflowers: Identifying Key Regions and Candidate Genes for Verticillium dahliae Resistance
 
 There are seven sections of code included here:
+
 Part 1: Preparing file and run GWA with EMMAX
 
 Part 2: Plotting Manhattan plots with PAV and SNP data (initial)
